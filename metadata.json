@@ -1,0 +1,5 @@
+{
+  "name": "QuizMaster AI",
+  "description": "Plataforma de quiz interactiva tipo Kahoot con retroalimentación personalizada por IA.",
+  "requestFramePermissions": []
+}
